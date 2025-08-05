@@ -6,3 +6,4 @@ func Run() error {
 // handle the edge case from the last release
 // match the style used in the rest of the module
 // guard against empty input
+// handle the edge case from the last release
